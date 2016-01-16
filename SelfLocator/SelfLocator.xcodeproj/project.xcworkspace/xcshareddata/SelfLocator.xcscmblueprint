@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6B9EEF453FB69D352F5B9253019B9F6679B653A6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8D0337B7A87B976987344309A2C2142FE55E999C" : 0,
+    "6B9EEF453FB69D352F5B9253019B9F6679B653A6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8C295C71-0CBE-484A-8161-FAB23735CF42",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8D0337B7A87B976987344309A2C2142FE55E999C" : "",
+    "6B9EEF453FB69D352F5B9253019B9F6679B653A6" : "SelfLocator\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SelfLocator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SelfLocator\/SelfLocator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rodrigopuravida\/SelfLocator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6B9EEF453FB69D352F5B9253019B9F6679B653A6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rodrigopuravida\/WebContentDownloadPrototype.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8D0337B7A87B976987344309A2C2142FE55E999C"
+    }
+  ]
+}
